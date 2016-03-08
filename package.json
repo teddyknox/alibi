@@ -1,0 +1,16 @@
+{
+  "name": "location-history-vizualization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "JSONStream": "^1.1.1",
+    "event-stream": "^3.3.2",
+    "mapbox": "^0.12.0",
+    "minimist": "^1.2.0",
+    "moment": "^2.12.0"
+  }
+}
